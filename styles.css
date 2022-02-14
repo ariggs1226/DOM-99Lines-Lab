@@ -1,0 +1,60 @@
+body {
+    background: black;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-weight: lighter;
+    padding: 1em;
+    border: 5px white solid;
+    margin-top: -6px;
+    margin-bottom: -16px;
+}
+
+.friend {
+    background-color: blue;
+    color: black;
+    font-weight: bolder;
+    border: 5px white solid;
+    padding: 0.5em;
+}
+
+div.friend > h3 {
+    text-transform: uppercase;
+    color: gray;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.stripe1 {
+    background-color: forestgreen;
+    border: 5px black solid;
+    padding: 32px;
+}
+
+.stripe2 {
+    background-color: white;
+    border: 5px black solid;
+    padding: 32px;
+}
+
+.stripe3 {
+    background-color: pink;
+    border: 5px black solid;
+    padding: 32px;
+}
+
+.stripe4 {
+    background-color: plum;
+    border: 5px black solid;
+    padding: 32px;
+
+}
+
+.stripe5 {
+    background-color: orange;
+    border: 5px black solid;
+    padding: 32px;
+
+}
